@@ -23,7 +23,6 @@ public class Program {
 
         for (Product product: products) {
             productInfo(product);
-
         }
     }
 
